@@ -10,9 +10,9 @@ This Python script utilizes the `keyboard` library to capture keylogs and the `s
 
 #### Usage:
 
-```bash```
+```bash
 *python keylogs.py*
-
+```
 
 ### run.bat
 This batch file is a simple script that starts the keylogger by executing the keylogs.py script using the Python interpreter.
