@@ -9,8 +9,8 @@ This keylogger project, implemented in Python, captures and logs keystrokes on a
 This Python script utilizes the `keyboard` library to capture keylogs and the `smtplib` library for sending email using the SMTP protocol (specifically configured for Gmail). The script logs key presses and includes special handling for non-character keys. It provides options to report the keylogs either to a file or via email at regular intervals. The keylogger runs continuously until manually stopped.
 
 #### Usage:
-
-```bash python keylogs.py ```
+bash
+``` python keylogs.py ```
 
 ### run.bat
 This batch file is a simple script that starts the keylogger by executing the keylogs.py script using the Python interpreter.
