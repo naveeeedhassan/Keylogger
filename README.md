@@ -16,7 +16,7 @@ bash
 This batch file is a simple script that starts the keylogger by executing the keylogs.py script using the Python interpreter.
 
 #### Usage:
-*Start " " python "keylogs.py"*
+```Start " " python "keylogs.py"```
 
 
 ## Configuration
